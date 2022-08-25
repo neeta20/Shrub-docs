@@ -4,8 +4,11 @@ We’ve created the following guidelines to help others use our brand and assets
 
 ### Shrub Logo
 
-[Download Shrub Logo](/src/assets/images/logo.svg)
+[ Shrub Logo](/img/logo.svg)
 
+
+
+[Download Shrub Logo](/img/logo.svg.zip)
 
 
 ### Shrub Font
