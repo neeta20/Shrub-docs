@@ -6,10 +6,7 @@ We’ve created the following guidelines to help others use our brand and assets
 
 ### Shrub Logo
 
-
-![](/img/logo.svg)
-
-[Download Shrub Logo](/img/logo.svg.zip)
+![](/img/logo.svg) <br />[Download Shrub Logo](/img/logo.svg.zip)
 
 <br />
 
